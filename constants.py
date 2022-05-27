@@ -1,0 +1,3 @@
+LENGTH = 100
+
+NOISE_LEVEL = 50
